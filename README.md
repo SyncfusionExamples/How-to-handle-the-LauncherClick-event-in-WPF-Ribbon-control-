@@ -14,6 +14,8 @@ void ribbonbar_LauncherClick(object sender, RoutedEventArgs e)
 }
 ```
 Output:
+
+![WPF_Ribbon_LauncherButton](Ribbon_LauncherButton.png)
  
 
 
